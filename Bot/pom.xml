@@ -31,14 +31,6 @@
 				</exclusion>
 			</exclusions>
 		</dependency>
-
-		<dependency>
-			<groupId>com.jagrosh</groupId>
-			<artifactId>jda-utilities-commons</artifactId>
-			<version>${jda.utilities.version}</version>
-			<scope>compile</scope>
-		</dependency>
-
 		<dependency>
 			<groupId>org.projectlombok</groupId>
 			<artifactId>lombok</artifactId>
